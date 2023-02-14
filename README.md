@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there!!! I am Alfonso and this is my "ReadMe" ✌🏻
 
-<!--
-**himurry/himurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a ML Engineer who loves share knowledge 
+I am particularly looking for new technologies and techniques to optimize and improve Supply Chain using Artificial Intelligence
 
-Here are some ideas to get you started:
+### Projects, lenguages, my work ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’m currently working at Nestle Mexico as a Data Scientist in Logistics - Supply Chain 
+🐍 My favorite lenguage is Python but I am familiar with languages such as R or C++ 
+
+### Interesting fact:
+
+I love emojis and EDM 😅
+
+### Contact
+
+Ask me about whatever thing that you want to learn 
+📧 Email: alfonsomvmx@outlook.com
