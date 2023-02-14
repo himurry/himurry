@@ -3,7 +3,7 @@
 I am a datanerd who loves share knowledge </br>
 I am looking for new technologies and techniques to optimize and improve Supply Chain using Artificial Intelligence
 
-### Projects, lenguages, my work ?
+### Projects, lenguages, and more
 
 💻 I’m currently working at Nestle Mexico as a Data Scientist in Logistics, Supply Chain </br>
 🐍 My favorite lenguage is Python but I am familiar with languages such as R or C++ 
