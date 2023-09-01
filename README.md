@@ -5,7 +5,7 @@ I am looking for new technologies and techniques to optimize and improve Supply 
 
 ### Projects, lenguages, and more
 
-💻 I’m currently working at Nestle Mexico as a Data Scientist in Logistics, Supply Chain </br>
+💻 I’m currently working at Unilever LATAM as a Data Scientist in Data & Analytics Team </br>
 🐍 My favorite lenguage is Python but I am familiar with languages such as R or C++ 
 
 ### Interesting fact:
