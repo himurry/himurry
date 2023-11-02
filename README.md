@@ -15,4 +15,4 @@ I love emojis and EDM 😅
 ### Contact
 
 Ask me about whatever thing that you want to learn </br>
-📧 Email: amurrietavillegas@icloud.com
+📧 Email: amurrietavillegas@outlook.com
