@@ -1,7 +1,7 @@
 ## Hi there!!! I am Alfonso and this is my "ReadMe" ✌🏻
 
-I am a datanerd who loves share knowledge </br>
-I am looking for new technologies and techniques to optimize and improve Supply Chain using Artificial Intelligence
+- I am a data scientist who loves share knowledge </br>
+- I am looking for new technologies and techniques to optimize and improve human life using Artificial Intelligence
 
 ### Projects, lenguages, and more
 
