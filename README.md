@@ -6,7 +6,7 @@
 ### Projects, lenguages, and more
 
 - I’m currently working at Unilever LATAM as a Data Scientist for Data & Analytics Team </br>
-- My favorite lenguage is Python but I am familiar with languages such as R or C++ 
+- My favorite lenguage is Python but I am familiar with languages such as Scala, R or C++
 
 ### Interesting fact:
 
